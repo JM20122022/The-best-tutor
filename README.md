@@ -4,20 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The best tutor</title>
-    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
     <header class="header">
         <div class="special_container">
             <div class="logo">
-                <img src="./images/logo2.png" alt="logo of the site">
+                <img src="./logo2.png" alt="logo of the site">
             </div>
             <div class="main_title_header">
                 <h1 class="big_title">
                     Sakharova Evgeniia 
                 </h1>
             </div>
-            <p> <img src="./images/barbie.jpeg" alt="Сырники" width="300"></p>
+            <p> <img src="./barbie.jpeg" alt="Сырники" width="300"></p>
             <nav class="menu">
                 <li class="menu_item"><a href="#about_me" class="href">About me</a></li>
                 <li class="menu_item"><a href="#experience" class="href">Experience</a></li>
