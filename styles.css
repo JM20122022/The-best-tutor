@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+@font-face {
+    font-family: Family Cringe;
+    src: url(../fonts/Oswald-SemiBold.ttf);
+}
+
+body{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.header{
+    padding: 40px 0px 0px 0px;
+}
+.logo img{
+    vertical-align: middle;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+}
+.main_content{
+    padding-top: 18px;
+    padding-bottom: 30px;
+}
+
+.main_content_info{
+    max-width: 1200px;
+}
+
+.content_title{
+    font-family: Family Cringe;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 56px;
+}
+
+.content_text{
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 56px;
+    text-align: justify;
+}
+.footer{
+    padding: 40px 0;
+}
+
+.footer .special_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer_info{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+
+.footer .up_link{
+    font-size: 14px;
+    line-height: 20px;
+}
